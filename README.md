@@ -9,20 +9,16 @@ npm install
 ```
 npm run serve
 ```
+### Firebase config
 
-### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+> Go to firebase.google.com
+> Login with google credentials
+> Go to console
+> Make a new project
+> Click on a project
+> Register your app
+> Add the Firebase SDK snippet to @ src/main.js
 ```
 
 ### Customize configuration
