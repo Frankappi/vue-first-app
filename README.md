@@ -1,5 +1,7 @@
 # vue-social
 
+## This is still in progress!
+
 ## Project setup
 ```
 npm install
