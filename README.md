@@ -24,5 +24,6 @@ Then: npm run serve
 > Add the Firebase SDK snippet to @ src/main.js
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Official docs
+VueJs: https://vuejs.org/v2/guide/
+Firebase: https://firebase.google.com/docs
