@@ -2,14 +2,15 @@
 
 ## This is still in progress!
 
-## Project setup
-```
-npm install
-```
+### VueJs requirements
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+To install the correct vue version, type the following in the terminal:
+npm install -g @vue/cli
+This is version CLI 3 and used for this project
+Once installed, type the following in the terminal: (once cloned or downloaded)
+In the root directory: npm install 
+Then: npm run serve
 ```
 ### Firebase config
 
